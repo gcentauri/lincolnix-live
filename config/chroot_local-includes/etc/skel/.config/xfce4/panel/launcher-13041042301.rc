@@ -1,0 +1,13 @@
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
+[Entry 0]
+Name=Image Editor
+Comment=GNU Image Manipulation Program
+Icon=gimp
+Exec=gimp
+Path=/home/user
+Terminal=false
+StartupNotify=false
+

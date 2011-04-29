@@ -1,0 +1,13 @@
+[Entry 0]
+Name=Word Processor
+Comment=The Abiword Word Processor
+Icon=accessories-text-editor
+Exec=abiword
+Path=/home/user
+Terminal=false
+StartupNotify=false
+
+[Global]
+MoveFirst=false
+ArrowPosition=0
+

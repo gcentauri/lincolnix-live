@@ -1,0 +1,17 @@
+/etc/gdm3/Xsession: Beginning session setup...
+
+(polkit-gnome-authentication-agent-1:2806): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2806): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+xfdesktop[2801]: starting up
+xfce4-settings-helper is already running
+
+MCS->Xfconf settings migration complete
+
+Gtk-Message: (for origin information, set GTK_DEBUG): failed to retrieve property `GtkOptionMenu::indicator-size' of type `GtkRequisition' from rc file value "0" of type `glong'
+Gtk-Message: (for origin information, set GTK_DEBUG): failed to retrieve property `GtkOptionMenu::indicator-spacing' of type `GtkBorder' from rc file value "0" of type `glong'
+/usr/share/wicd/gtk/gui.py:152: GtkWarning: gtk_toolbar_set_icon_size: assertion `icon_size != GTK_ICON_SIZE_INVALID' failed
+  self.wTree = gtk.glade.XML(gladefile)
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected
+

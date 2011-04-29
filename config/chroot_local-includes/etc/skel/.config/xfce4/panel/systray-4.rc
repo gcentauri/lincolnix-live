@@ -1,0 +1,8 @@
+[Global]
+ShowFrame=false
+Rows=1
+
+[Applications]
+vlc=false
+wicd-client.py=false
+

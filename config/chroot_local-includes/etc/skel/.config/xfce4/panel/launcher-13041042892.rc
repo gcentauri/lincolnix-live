@@ -1,0 +1,13 @@
+[Entry 0]
+Name=Internet Connection
+Comment=Surf the World Wide Web!!!
+Icon=iceweasel
+Exec=exo-open --launch WebBrowser
+Path=/home/user
+Terminal=false
+StartupNotify=false
+
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
