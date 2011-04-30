@@ -1,4 +1,5 @@
 #!/bin/bash
+# adding a comment to test git
 lb config noauto \
     -d squeeze -p xfce --archive-areas "main contrib non-free" \
     --debian-installer live --mirror-binary http://debian.uchicago.edu/debian \
