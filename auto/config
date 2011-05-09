@@ -8,7 +8,7 @@ lb config noauto \
     --packages "openssh-server iceweasel gimp inkscape mtpaint abiword \
                 epdfview ntpdate firmware-b43-installer vlc zim xchat \
                 wpasupplicant wicd pianobar audacity flashplugin-nonfree \
-                calcoo gpicview xfce4-goodies geomview geda alsa-firmware-loaders\
+                calcoo gpicview geomview geda alsa-firmware-loaders\
                 ace-of-penguins synaptic moc xboard phalanx qgo gnugo less
                 wodim w3m rednotebook linux-wlan-ng atmel-firmware firmware-atheros \
                 firmware-brcm80211 firmware-ralink firmware-realtek \
