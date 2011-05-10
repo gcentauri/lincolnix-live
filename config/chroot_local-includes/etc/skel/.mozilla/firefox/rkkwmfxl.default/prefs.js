@@ -9,21 +9,29 @@
  * For more information, see http://www.mozilla.org/unix/customizing.html#prefs
  */
 
-user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1304096909);
-user_pref("app.update.lastUpdateTime.background-update-timer", 1304096908);
-user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1304096908);
-user_pref("app.update.lastUpdateTime.microsummary-generator-update-timer", 1304096909);
-user_pref("app.update.lastUpdateTime.places-maintenance-timer", 1304096924);
-user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1304096909);
+user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1304970803);
+user_pref("app.update.lastUpdateTime.background-update-timer", 1304970803);
+user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1304970803);
+user_pref("app.update.lastUpdateTime.microsummary-generator-update-timer", 1304970803);
+user_pref("app.update.lastUpdateTime.places-maintenance-timer", 1304970803);
+user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1304994981);
 user_pref("browser.download.lastDir", "/home/user");
+user_pref("browser.history_expire_days.mirror", 180);
 user_pref("browser.migration.version", 1);
 user_pref("browser.places.importBookmarksHTML", false);
 user_pref("browser.places.smartBookmarksVersion", 1);
+user_pref("browser.preferences.advanced.selectedTabIndex", 3);
+user_pref("browser.privatebrowsing.autostart", true);
+user_pref("browser.rights.3.shown", true);
+user_pref("browser.sessionstore.resume_session_once", true);
 user_pref("browser.startup.homepage", "lincolnix.net");
-user_pref("browser.startup.homepage_override.mstone", "rv:1.9.1.16");
-user_pref("extensions.enabledItems", "{972ce4c6-7e08-4474-a285-3208198ce6fd}:3.5.16");
-user_pref("extensions.lastAppVersion", "3.5.16");
+user_pref("browser.startup.homepage_override.mstone", "rv:1.9.1.18");
+user_pref("extensions.enabledItems", "{972ce4c6-7e08-4474-a285-3208198ce6fd}:3.5.18");
+user_pref("extensions.lastAppVersion", "3.5.18");
+user_pref("extensions.update.notifyUser", false);
 user_pref("intl.charsetmenu.browser.cache", "ISO-8859-1, UTF-8");
 user_pref("network.cookie.prefsMigrated", true);
 user_pref("privacy.sanitize.migrateFx3Prefs", true);
+user_pref("signon.rememberSignons", false);
+user_pref("spellchecker.dictionary", "en_US");
 user_pref("urlclassifier.keyupdatetime.https://sb-ssl.google.com/safebrowsing/newkey", 1306688911);

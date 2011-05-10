@@ -2,15 +2,31 @@
 row=0
 col=1
 
-[Debian squeeze 20110429-16:40]
+[Debian Installer]
+row=7
+col=0
+
+[EXPANSION]
+row=5
+col=0
+
+[215 GB Filesystem]
+row=4
+col=0
+
+[97 GB Filesystem]
+row=6
+col=0
+
+[637 MB Filesystem]
 row=3
 col=0
 
-[FATTY]
+[Trash]
 row=2
 col=0
 
-[Trash]
+[File System]
 row=1
 col=0
 

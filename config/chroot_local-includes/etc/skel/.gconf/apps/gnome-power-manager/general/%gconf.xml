@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="can_hibernate" mtime="1304096828" type="bool" value="false"/>
+	<entry name="can_hibernate" mtime="1304896855" type="bool" value="false"/>
 </gconf>
