@@ -1,0 +1,11 @@
+T 1304998096 19*	19Now talking on #debian
+T 1304998096 29*	29Topic for #debian 29is: squeeze (6.0.1) released; /msg dpkg squeeze ; /msg dpkg lenny->squeeze | lenny (5.0.8) /msg dpkg 5.0.8 | NO FLOOD: /msg dpkg pastebin | /msg bots NOT people | offtopic: #debian-offtopic | wheezy/sid: #debian-next (irc.oftc.net) | FAQ: http://deb.li/IRCFAQ | channel logs: http://deb.li/yQXC
+T 1304998096 29*	29Topic for #debian 29set by themill!~stuart@unaffiliated/themill 29at Mon May  9 11:52:00 2011
+T 1304998097 28-29ChanServ28-	[#debian] Welcome to #Debian. This is a discussion channel; if you have a question about Debian GNU/Linux, ask and we will try our best to answer it. Newcomers should read the channel's guidelines by typing "/msg dpkg guidelines". Please do not paste in the channel; use #flood instead. Thank you.
+T 1304998097 22*	#debian :http://www.debian.org
+T 1304998205 19*	19Now talking on #debian
+T 1304998205 29*	29Topic for #debian 29is: squeeze (6.0.1) released; /msg dpkg squeeze ; /msg dpkg lenny->squeeze | lenny (5.0.8) /msg dpkg 5.0.8 | NO FLOOD: /msg dpkg pastebin | /msg bots NOT people | offtopic: #debian-offtopic | wheezy/sid: #debian-next (irc.oftc.net) | FAQ: http://deb.li/IRCFAQ | channel logs: http://deb.li/yQXC
+T 1304998205 29*	29Topic for #debian 29set by themill!~stuart@unaffiliated/themill 29at Mon May  9 11:52:04 2011
+T 1304998205 28-29ChanServ28-	[#debian] Welcome to #Debian. This is a discussion channel; if you have a question about Debian GNU/Linux, ask and we will try our best to answer it. Newcomers should read the channel's guidelines by typing "/msg dpkg guidelines". Please do not paste in the channel; use #flood instead. Thank you.
+T 1304998205 22*	#debian :http://www.debian.org
+T 1304998219 19*	19Rusty1 (~Rusty1@cpe-74-70-70-0.nycap.res.rr.com) has joined #debian

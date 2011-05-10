@@ -1,0 +1,11 @@
+=== Journey ===
+**Date:**
+
+**Location:**
+
+**Participants:**
+
+**The trip:**
+First we went to xxxxx then we got to yyyyy ...
+
+**Pictures:** [Image folder ""/path/to/the/images/""]

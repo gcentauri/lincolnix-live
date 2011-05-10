@@ -1,0 +1,4 @@
+[Added Associations]
+x-scheme-handler/file=exo-file-manager.desktop
+x-scheme-handler/trash=exo-file-manager.desktop
+

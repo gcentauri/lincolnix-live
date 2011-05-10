@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Image Editor
+Comment=GNU Image Manipulation Program
+Icon=gimp
+Exec=gimp
+Path=/home/user
+Terminal=false
+StartupNotify=false
+

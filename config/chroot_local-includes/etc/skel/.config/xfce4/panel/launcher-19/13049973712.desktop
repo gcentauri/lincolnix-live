@@ -1,0 +1,17 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Comment=qgo
+Exec=qgo
+Icon=/usr/share/qGo/pics/Bowl.png
+MimeType=text/sgf
+Name=qgo
+GenericName=Go
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-DCOP-ServiceType=Multi
+Categories=Qt;KDE;Game;BoardGame;
+X-KDE-StartupNotify=true
+X-XFCE-Source=file:///usr/share/applications/kde/qgo.desktop

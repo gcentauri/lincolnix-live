@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Media Player
+Comment=VLC media player
+Icon=audio-x-generic
+Exec=vlc
+Path=/home/user
+Terminal=false
+StartupNotify=false
+

@@ -1,0 +1,10 @@
+Besides templates for weekdays you can also have arbitrary named templates.
+For example you might want to have a template for "Meeting" or "Journey".
+All templates must reside in the directory "/home/user/.rednotebook/templates".
+
+To create a new template, just save an ordinary textfile in that directory. You can use your favourite text editing program for that task (e.g. gedit on Linux or the editor on Win).
+The name of the newly created file will be the template's title.
+
+You can switch to "Preview" mode and click on the link to get to the [template directory ""/home/user/.rednotebook/templates""].
+
+If you come up with templates that could be useful for other people as well, I would appreciate if you sent me your template file, so others can benefit from it.
