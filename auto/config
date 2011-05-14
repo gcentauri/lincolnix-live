@@ -1,18 +1,17 @@
 #!/bin/bash
-# adding a comment to test git
-lb config noauto \
-    -d squeeze -p xfce --archive-areas "main contrib non-free" \
-    --debian-installer live --mirror-binary http://debian.uchicago.edu/debian \
+# a live-build config for building a test live USB for Rachel's MacbookPro
+
+lb config noauto -b usb-hdd \
+    -d squeeze \
+    -p xfce basic firmware \
+    --archive-areas "main contrib non-free" \
+    --mirror-binary http://debian.uchicago.edu/debian \
     --mirror-binary-security http://debian.uchicago.edu/debian-security \
     --tasks "laptop" \
-    --packages "openssh-server iceweasel gimp inkscape mtpaint abiword \
-                epdfview ntpdate firmware-b43-installer vlc zim xchat \
-                wpasupplicant wicd pianobar audacity flashplugin-nonfree \
-                qalculate-gtk gpicview geomview geda alsa-firmware-loaders\
-                ace-of-penguins synaptic moc xboard phalanx qgo gnugo less \
-                wodim w3m rednotebook linux-wlan-ng atmel-firmware firmware-atheros \
-                firmware-brcm80211 firmware-ralink firmware-realtek \
-                libertas-firmware zd1211-firmware" \
+    --hostname "lincolnix-live" \
+    --iso-preparer "Grant Centauri" \
+    --iso-publisher "Lincolnix Users Collective" \
+    --iso-volume "Rache-live" \
+    --username "rachel" \
+    --packages "rosegarden vmpk qsynth fluidsynth unrar-nonfree squeeze leafpad openoffice.org rhythmbox" \
     "${@}"
-
-#something from ande
