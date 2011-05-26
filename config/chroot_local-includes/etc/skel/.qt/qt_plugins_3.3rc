@@ -1,7 +1,0 @@
-[usr]
-lib/qt3/plugins/imageformats/libqmng.so=30300^e3^ei686 Linux g++-4.* full-config^e2010-09-04T20:04:06^e
-lib/qt3/plugins/inputmethods/libqimsw-multi.so=30300^e3^ei686 Linux g++-4.* full-config^e2010-09-04T20:04:06^e
-lib/qt3/plugins/inputmethods/libqimsw-none.so=30300^e3^ei686 Linux g++-4.* full-config^e2010-09-04T20:04:06^e
-lib/qt3/plugins/inputmethods/libqsimple.so=30300^e3^ei686 Linux g++-4.* full-config^e2010-09-04T20:04:06^e
-lib/qt3/plugins/inputmethods/libqxim.so=30300^e3^ei686 Linux g++-4.* full-config^e2010-09-04T20:04:06^e
-

@@ -1,8 +1,0 @@
-T 1304998096 19*	19Now talking on #lincolnix
-T 1304998096 22*	holmes.freenode.net sets mode +n #lincolnix
-T 1304998096 22*	holmes.freenode.net sets mode +s #lincolnix
-T 1304998199 Tcl interface unloaded
-T 1304998199 Python interface unloaded
-T 1304998205 19*	19Now talking on #lincolnix
-T 1304998205 22*	niven.freenode.net sets mode +n #lincolnix
-T 1304998205 22*	niven.freenode.net sets mode +s #lincolnix
