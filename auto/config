@@ -7,7 +7,7 @@ lb config noauto \
     --archive-areas "main contrib non-free" \
     --mirror-binary http://debian.uchicago.edu/debian \
     --mirror-binary-security http://debian.uchicago.edu/debian-security \
-    --bootappend-live "persistent"
+    --bootappend-live "persistent" \ 
     --tasks "laptop" \
     --hostname "lincolnix" \
     --iso-preparer "Grant Centauri" \
