@@ -1,0 +1,68 @@
+# window managers
+screen 
+ratpoison
+dvtm
+
+# console menu
+pdmenu # user friendly console menu system!
+
+# shells
+zsh
+
+# music
+moc
+mplayer
+pianobar
+randomplay # shuffle music player that remembers songs between sessions
+shell-fm # player for last.fm radio streams
+sidplay # C64 music player
+yaret # cd ripper, perl script
+
+# editors
+e3
+
+# file managers
+fdclone
+lfm
+
+# chat
+freetalk
+finch
+mcabber
+weechat-curses
+
+# email
+mutt
+alpine
+
+# browser/network/rss
+w3m
+wicd
+wicd-cli
+canto
+nrss
+olive
+rsstail
+
+# viewer
+feh
+
+# accessories
+calcurse
+concalc
+note
+task
+ttyrec # records terminal stuff for playback!
+yasr # screen reader, audio?
+less
+wodim
+
+# games
+crawl
+fizmo
+freesweep
+nethack-console
+pacman4console 
+pioneers-console
+sudoku
+zivot # game of life
