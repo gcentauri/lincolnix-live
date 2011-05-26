@@ -1,17 +1,18 @@
 #!/bin/bash
-# a live-build config for building a test live USB for Rachel's MacbookPro
+# a minimal console focused live build
 
-lb config noauto -b usb-hdd \
+lb config noauto \
     -d squeeze \
-    -p xfce basic firmware \
+    -p standard-X11 \
     --archive-areas "main contrib non-free" \
     --mirror-binary http://debian.uchicago.edu/debian \
     --mirror-binary-security http://debian.uchicago.edu/debian-security \
+    --bootappend-live "persistent"
     --tasks "laptop" \
-    --hostname "lincolnix-live" \
+    --hostname "lincolnix" \
     --iso-preparer "Grant Centauri" \
-    --iso-publisher "Lincolnix Users Collective" \
-    --iso-volume "Rache-live" \
-    --username "rachel" \
-    --packages "rosegarden vmpk qsynth fluidsynth unrar-nonfree squeeze leafpad openoffice.org rhythmbox" \
+    --iso-publisher "Lincolnix Users Collective: info@lincolnix.net" \
+    --iso-volume "Lincolnix Mini" \
+    --username "user" \
+    --packages "" \
     "${@}"

@@ -1,7 +1,0 @@
-Package: xfce*
-Pin: release n=wheezy
-Pin-Priority: 600
-
-Package: *
-Pin: release n=squeeze
-Pin-Priority: 1
